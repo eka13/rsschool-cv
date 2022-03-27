@@ -1,2 +1,3 @@
 # rsschool-cv
-https://eka13.github.io/rsschool-cv/cv
+https://eka13.github.io/rsschool-cv/
+
