@@ -3,7 +3,6 @@
 ## Contacts
 ##### **Phone:** +79516712948
 ##### **E-mail:** eka1308@yandex.ru
-##### **Telegram:** 
 ##### **[VK](https://vk.com/katrrrrina/)**
 
 
