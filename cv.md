@@ -36,6 +36,7 @@ console.log(score)
 ## Education
 
 Cherepovets State University - higher education in marketing communications
+
 Peter the Great St. Petersburg Polytechnic University - web development courses
 
 
